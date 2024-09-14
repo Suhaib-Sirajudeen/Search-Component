@@ -1,0 +1,20 @@
+.search-input-section{
+  position: relative;
+}
+
+.search-input-contianer  input{
+
+  width: 100%;
+  padding: 10px;
+  border-radius: 4px;
+  border: none;
+  font-size: 16px;
+  padding-right: 30px;
+}
+.input-button{
+  position: absolute;
+  background-color: transparent;
+  border: none;
+  top: 4px;
+  right: 5px;
+}

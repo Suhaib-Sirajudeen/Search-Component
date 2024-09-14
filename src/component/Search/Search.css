@@ -1,0 +1,18 @@
+.main-container{
+  max-width: 600px;
+  width: 100%;
+}
+
+.header-contianer{
+  display: flex;
+  gap: 10px;
+  margin-bottom: 10px;
+
+
+}
+.header-contianer h1{
+  padding-top: 15px;
+}
+.header-contianer img{
+  filter: invert(1);
+}
